@@ -1,0 +1,5 @@
+Math.random generates a number between 0 and 1.
+
+Math.floor(Math.random()) removes the values after decimal after generating a number between 0 and 1.
+
+In JS, we make different functions for independent purposes so that we can use it in other programs also
